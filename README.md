@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on my coding skills.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
-- 🎨 My hobby : I love to do painting. Check out my artworks - https://www.behance.net/rudrakshisoni
+- 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
 
 ![Rudrakshi's github stats](https://github-readme-stats.vercel.app/api?username=rudrakshi99&show_icons=true&hide_border=true&hide=["stars"])
