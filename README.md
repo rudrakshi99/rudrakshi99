@@ -5,6 +5,7 @@
 [![linkedin badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/rudrakshi-soni-403031195/)
 [![twitter badge](https://img.shields.io/badge/@Rudrakshi09-30302f?style=flat&logo=twitter)](https://twitter.com/Rudrakshi09)
 [![medium badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=medium)](https://medium.com/@sonirudrakshi99)
+[![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/rudrakshi99)
 ![](https://visitor-badge.glitch.me/badge?page_id=rudrakshi99.rudrakshi99)  
 
 </br>
