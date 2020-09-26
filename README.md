@@ -9,7 +9,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=rudrakshi99.rudrakshi99)  
 
 </br>
-<img align="right" alt="GIF" src="https://animeright.news/wp-content/uploads/sites/2/2019/01/ARN-Coding-2.gif" />
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 **I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.**
 
