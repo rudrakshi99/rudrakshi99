@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on my coding skills.
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning Backend.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
 - 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
