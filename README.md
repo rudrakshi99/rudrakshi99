@@ -12,7 +12,7 @@
 **I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.**
 
 
-- 🔭 I’m currently working on my coding skills.
+- 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning Backend.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
 - 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
@@ -43,5 +43,8 @@
 </a>  
 <a href="https://dev.to/rudrakshi99" target="_blank">
 <img src="https://img.shields.io/badge/dev.to-%20-%231A1918.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>  
+ <a href="https://stackoverflow.com/users/12773738/rudrakshi?tab=profile" target="_blank">
+<img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>  
 </p> 
