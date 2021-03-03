@@ -20,6 +20,8 @@
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
 
 ![Rudrakshi's github stats](https://github-readme-stats.vercel.app/api?username=rudrakshi99&show_icons=true&hide_border=true&hide=["stars"])
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshi99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
 
 # Languages and Tools
 
