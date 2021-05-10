@@ -16,6 +16,8 @@
 - 🔭 I’m currently working on my problem solving skills.
 - 🌱 I’m currently learning Backend.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
+- :handshake: I’m looking to collaborate on Django-based projects.
+
 - 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
 
