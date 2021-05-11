@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Backend.
+- 🌱 I’m currently learning Django.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
 - :handshake: I’m looking to collaborate on Django-based projects.
 
