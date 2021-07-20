@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning React and working on Community App 🙈.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
 - :handshake: I’m looking to collaborate on Django-based projects.
 
