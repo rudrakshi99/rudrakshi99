@@ -8,9 +8,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=rudrakshi99.rudrakshi99)  
 
 </br>
-<img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
-**I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.**
+**I'm a competitive programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I am a highly motivated person and have excellent proficiency in C/C++. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development. Currently, looking for new opportunities and learning new technologies to enhance my skills.**
+<img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 
 - 🔭 I’m currently working on my problem solving skills.
