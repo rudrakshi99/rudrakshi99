@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi there  <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30" >
  
- # I'm Rudrakshi <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="50" >
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55245862/140793171-6628b6c5-9155-42b8-8b52-0f85d2ad7297.png" align="center"/>
+</div>
 
+<br>
  
 [![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/rudrakshi99)
 [![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/sonirudrakshi99)
