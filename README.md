@@ -12,15 +12,14 @@
 
 </br>
 
-**I'm a competitive programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I am a highly motivated person and have excellent proficiency in C/C++. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development. Currently, looking for new opportunities and learning new technologies to enhance my skills.**
+**I'm a competitive programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.**
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning React.
+- 🔭 Software Developer Intern at CreateBytes.
+- 🌱 Backend Developer, experienced in Django, DRF, Django-Celery.
+- :handshake: Talk to me about Backend dev, software development and DSA.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
-- :handshake: I’m looking to collaborate on Django-based projects.
-
 - 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
 
