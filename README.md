@@ -12,7 +12,7 @@
 
 </br>
 
-**I'm a competitive programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.**
+**I'm a passionate programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.**
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 
@@ -22,6 +22,36 @@
 - 📫 How to reach me: sonirudrakshi99@gmail.com
 - 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
+
+# My Tech Stack
+
+**Programming Languages**
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>|<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>|<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>|
+|--|--|--|
+<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
+**Libraries and Frameworks**
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>|<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
+|--|--|--|
+
+
+**Databases**
+
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>|<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>|<img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>|
+|--|--|--|
+
+**Hosting** 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>|<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">|<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>|
+|--|--|--|
+
+**Other Tools**
+
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>|<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>|<img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>|
+|--|--|--|
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>|<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">|<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<br>
 
 <summary><b>⚡ Github Stats</b></summary>
 <details open>
@@ -33,19 +63,6 @@
 <details open>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi99&hide_border=true" />
 </details>
-
-
-# Languages and Tools
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"  height="50px"> <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"  height="50px"> <img src="https://www.python.org/static/opengraph-icon-200x200.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  height="50px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  height="50px"> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"  height="50px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  height="50px">
-<img src="https://avatars3.githubusercontent.com/u/684879?s=400&v=4"  height="50px">
 
 # Connect with me
 
