@@ -19,6 +19,7 @@
 - 🔭 Software Developer Intern at CreateBytes.
 - 🌱 Backend Developer, experienced in Django, DRF, Django-Celery.
 - :handshake: Talk to me about Backend dev, software development and DSA.
+- 📑 My Notion [Resume](https://rudrakshi.notion.site/Rudrakshi-Soni-f95bdde33be4400d8e8981f00855a850).
 - 📫 How to reach me: sonirudrakshi99@gmail.com
 - 🎨 My hobby : I love to do painting. <br>Check out my artworks - [![behance badge](https://img.shields.io/badge/rudrakshisoni-30302f?style=flat&logo=behance)](https://www.behance.net/rudrakshisoni)
 - ⚡ Fun fact: I sometimes used to open Github to see Octocat.
