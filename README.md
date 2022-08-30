@@ -54,12 +54,6 @@
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>|<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">|<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <br>
 
-<summary><b>⚡ Github Stats</b></summary>
-<details open>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rudrakshi99&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakshi99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-  </details>
-
 <summary><b>☄️ Github Streaks</b></summary>
 <details open>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakshi99&hide_border=true" />
