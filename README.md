@@ -8,8 +8,7 @@
  
 [![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/rudrakshi99)
 [![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/sonirudrakshi99)
-![](https://visitor-badge.glitch.me/badge?page_id=rudrakshi99.rudrakshi99)  
-
+[![](https://visitcount.itsvg.in/api?id=rudrakshi99&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </br>
 
 **I'm a passionate programmer and an enthusiastic Web Developer who loves to solve real-life problems. I have an immense interest in software development and am eager to contribute to open source. I love to work with people who are passionate about building solutions. I intend to build my career in the field of software development.**
