@@ -78,5 +78,9 @@
 </a>
  <a href="https://stackoverflow.com/users/12773738/rudrakshi?tab=profile" target="_blank">
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
+</a> 
+ </a>
+ <a href="https://www.youtube.com/@rudrakshisoni" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
 </a>  
 </p> 
