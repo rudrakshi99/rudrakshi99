@@ -1,7 +1,7 @@
 ### Hi there  <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30" >
  
 <div align="center">
-  <img src="https://github.com/Algo-Phantoms/Algo-Tree/assets/55245862/257cbf8c-71df-4744-8354-30c130ccfc66" align="center"/>
+<img alt="Screenshot 2023-08-14 134108" src="https://github.com/Anadee11/WebArena/assets/55245862/c7d94ad9-9641-45b7-96ad-2a24fa8a9010">
 </div>
 
 <br>
