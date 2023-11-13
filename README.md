@@ -15,7 +15,7 @@
 <img align="right" alt="GIF" src="https://thumbs.gfycat.com/HugeYellowGoldfinch-size_restricted.gif" />
 
 
-- 🔭 Technology Summer Analyst at [Morgan Stanley](https://www.morganstanley.com/)
+- 🔭 Technology Analyst at [Morgan Stanley](https://www.morganstanley.com/)
 - 🌱 Backend Developer, experienced in Django, DRF, Django-Celery.
 - :handshake: Talk to me about Backend dev, software development and DSA.
 - 📫 How to reach me: sonirudrakshi99@gmail.com
